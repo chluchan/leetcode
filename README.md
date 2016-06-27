@@ -12,8 +12,6 @@ Don't look at my source code if you are planning on working on these problems. G
 
 MIT © [Chris Hluchan]()
 
-[npm-image]: https://badge.fury.io/js/UVa-Problems.svg
-[npm-url]: https://npmjs.org/package/UVa-Problems
 [travis-image]: https://travis-ci.org/chluchan/UVa-Problems.svg?branch=master
 [travis-url]: https://travis-ci.org/chluchan/UVa-Problems
 [daviddm-image]: https://david-dm.org/chluchan/UVa-Problems.svg?theme=shields.io
