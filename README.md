@@ -1,5 +1,5 @@
 # LeetCode / UVA Online Judge Problems [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> my solutions to a few contest problems
+> my solutions to a few online judge problems
 
 ## Spoiler Alert!
 Don't look at my source code if you are planning on working on these problems. Go solve them yourself!
